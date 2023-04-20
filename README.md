@@ -4,3 +4,4 @@
   - Selecting a Third-Party Package
 - React-Player
 - Popular React Third-Party Packages
+https://recharts.org/en-US/api/AreaChart
